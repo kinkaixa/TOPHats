@@ -1,6 +1,11 @@
 {
     "hats": [
         {
+            "name": "たかしゅう",
+            "author": "空くん",
+            "condition": "None",
+            "resource": "takasyu_adaptive.png",
+        {
             "name": "ハニ",
             "author": "空くん",
             "condition": "None",
