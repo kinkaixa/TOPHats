@@ -4,8 +4,7 @@
             "name": "つなつな",
             "author": "空くん",
             "condition": "None",
-            "resource": "sunatsuna_adaptive.png",
-            "adaptive": true
+            "resource": "tsunatsuna_adaptive.png",
         }
     ]
 }
