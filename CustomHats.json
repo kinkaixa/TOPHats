@@ -65,6 +65,6 @@
             "condition": "None",
             "resource": "Tsunatsuna_adaptive.png",
             "adaptive": true
-        },
+        }
     ]
 }
