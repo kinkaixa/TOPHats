@@ -58,6 +58,13 @@
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
-        }
+        },
+         {
+            "name": "つなつな⋆",
+            "author": "空くん",
+            "condition": "None",
+            "resource": "FOK_ldwaIAEb8Ma.jpg.png",
+            "adaptive": true
+        },
     ]
 }
