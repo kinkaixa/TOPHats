@@ -1,5 +1,11 @@
 {
     "hats": [
+        {
+            "name": "さゆたそ",
+            "author": "空くん",
+            "condition": "None",
+            "resource": "sayutaso_adaptive.png",
+        },
          {
             "name": "つなつな",
             "author": "空くん",
