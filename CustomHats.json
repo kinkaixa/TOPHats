@@ -1,6 +1,12 @@
 {
     "hats": [
         {
+            "name": "二号",
+            "author": "空くん",
+            "condition": "None",
+            "resource": "nigou_adaptive.png",
+        },
+        {
             "name": "たかしゅう",
             "author": "空くん",
             "condition": "None",
